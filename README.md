@@ -17,7 +17,7 @@ for our team and our clients in a single place:
 
 The goal: turn data scattered across many tools into clear, actionable dashboards.
 
-## Stack
+## 💻 Tech Stack
 React · TypeScript · Vitest · PostgreSQL · DigitalOcean · REST APIs
 
 ## Contact
