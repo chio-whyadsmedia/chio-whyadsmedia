@@ -20,5 +20,8 @@ The goal: turn data scattered across many tools into clear, actionable dashboard
 ## 💻 Tech Stack
 React · TypeScript · Vitest · PostgreSQL · DigitalOcean · REST APIs
 
-## Contact
-[Portfolio](https://portfolio-rocio-arenillas.vercel.app/) · [LinkedIn](https://linkedin.com/in/roc%C3%ADo-arenillas-627813279/)
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rocío-arenillas-627813279/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rocioarenillas@whyadsmedia.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-369e97?logo=vercel&logoColor=white)](https://portfolio-rocio-arenillas.vercel.app/)
